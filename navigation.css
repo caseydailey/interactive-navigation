@@ -1,0 +1,20 @@
+
+/* i know its ugly. sorry. */
+
+li {
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	float: right;
+	padding:  0 10px;
+	
+}
+
+li a:hover {
+	color: red;
+	background-color: pink;
+}
+
+li:active {
+	padding: 0 15px;
+}
